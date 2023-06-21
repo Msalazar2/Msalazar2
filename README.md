@@ -1,5 +1,6 @@
 ### Hi there 👋 
 - 👨‍🔬 I'm a Data Scientist
+- ❓ I chose to be a Data Scientist because I get to find value in data and build models that can improve society in many sectors.
 - 🔭 I’m currently working on adding, committing, and pushing files to repositories on Github
 - 🌱 I’m currently learning how to use CLI, Git, and Github
 - 🤔 I’m looking for help with anything related to Data Science
