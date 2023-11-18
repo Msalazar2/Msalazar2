@@ -1,23 +1,34 @@
-### Hi there 👋 
-- 👨‍🔬 I'm a Data Scientist
-- ❓ I chose to be a Data Scientist because I get to find value in data and build models that can improve society in many sectors.
-- 🔭 I’m currently working on clustering models
-- 🌱 I’m currently learning how similar observations are determined
-- 🤔 I’m looking for help with anything related to Data Science
-- 💬 Ask me about my repos
-- 📫 How to reach me: marcelinosalazar2@gmail.com
-- ⚡ Fun fact: I served 5 years in the United States Army as an HR rep
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="300"/>
+</div>
 
-<!--
-**Msalazar2/Msalazar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/marcelino-salazar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
-Here are some ideas to get you started:
-- 👨‍🔬 I'm a Data Scientist
-- 🔭 I’m currently working on clustering models
-- 🌱 I’m currently learning how similar observations are determined
-- 👯 I’m looking to collaborate
-- 🤔 I’m looking for help with anything related to Data Science
-- 💬 Ask me about my repos
-- 📫 How to reach me: marcelinosalazar2@gmail.com
-- ⚡ Fun fact: I served 5 years in the United States Army as a HR rep
--->
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Msalazar2&style=flat-square&color=blue" alt=""/>
+
+  <h1>
+  Hola Amigos!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+---
+
+### 👨‍💻 About Me :
+I am a Data Scientist 👨‍🔬 based in Texas ⭐ Born and raised in Cali 🌴
+
+- I am a United States Army Veteran 🇺🇸 
+- I am a huge soccer fanatic ⚽
+- I love sci-fi 👽
+- I have a boundless curiosity that fuels my passion for data exploration 📊🤔
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
