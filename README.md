@@ -28,7 +28,7 @@ I am a Data Scientist 👨‍🔬 based in Texas ⭐ Born and raised in Cali �
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ : Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -49,4 +49,4 @@ I am a Data Scientist 👨‍🔬 based in Texas ⭐ Born and raised in Cali �
 
 ---
 
-### :writing_hand: Blog Posts :
+### ✍️ : Blog Posts :
