@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a Data Scientist 👨‍🔬  Born and raised in Cali 🌴
+Aspiring Data Scientist 👨‍🔬  Born and raised in Cali 🌴
 
 - I am a United States Army Veteran 🇺🇸 
 - I am a huge soccer fanatic ⚽
